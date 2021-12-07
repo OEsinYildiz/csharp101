@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\bin\Debug\net6.0\console_programlama.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\bin\Debug\net6.0\console_programlama.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\bin\Debug\net6.0\console_programlama.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\bin\Debug\net6.0\console_programlama.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\bin\Debug\net6.0\ref\console_programlama.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\bin\Debug\net6.0\console_programlama.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\console_programlama.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\console_programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\console_programlama.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\console_programlama.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\console_programlama.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\console_programlama.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\ref\console_programlama.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\console_programlama.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\console_programlama\obj\Debug\net6.0\console_programlama.genruntimeconfig.cache

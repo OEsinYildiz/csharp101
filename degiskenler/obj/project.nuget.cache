@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBI5GFsgatL7zml008N48eexciN5CNELVbDWZ7PT/xZhN8oua9Wa3l6/VlZ1jAI1orq076g1tIyh8ApDePlwbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\Desktop\\Patika\\CSharp-101\\degiskenler\\degiskenler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
