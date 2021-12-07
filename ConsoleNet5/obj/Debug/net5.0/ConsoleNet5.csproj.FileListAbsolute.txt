@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\bin\Debug\net5.0\ConsoleNet5.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\bin\Debug\net5.0\ConsoleNet5.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\bin\Debug\net5.0\ConsoleNet5.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\bin\Debug\net5.0\ConsoleNet5.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\bin\Debug\net5.0\ConsoleNet5.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\bin\Debug\net5.0\ref\ConsoleNet5.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\bin\Debug\net5.0\ConsoleNet5.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ConsoleNet5.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ConsoleNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ConsoleNet5.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ConsoleNet5.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ConsoleNet5.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ConsoleNet5.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ref\ConsoleNet5.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ConsoleNet5.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\ConsoleNet5\obj\Debug\net5.0\ConsoleNet5.genruntimeconfig.cache
