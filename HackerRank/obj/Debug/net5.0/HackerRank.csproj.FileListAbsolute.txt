@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\HackerRank.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\HackerRank.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\HackerRank.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\bin\Debug\net5.0\HackerRank.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\bin\Debug\net5.0\HackerRank.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\bin\Debug\net5.0\HackerRank.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\bin\Debug\net5.0\HackerRank.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\bin\Debug\net5.0\HackerRank.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\bin\Debug\net5.0\ref\HackerRank.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\bin\Debug\net5.0\HackerRank.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\HackerRank.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\ref\HackerRank.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\HackerRank.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\HackerRank\obj\Debug\net5.0\HackerRank.genruntimeconfig.cache

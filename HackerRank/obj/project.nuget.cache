@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yidiofsbdKgh58HQXiCMk9Iqaj/aLQaQBRL7C0zrzx4JBBVq149cbpKUGoEo0iDlbpdZI6vUFHjTPjt9pol/Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\Desktop\\Patika\\CSharp-101\\HackerRank\\HackerRank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
