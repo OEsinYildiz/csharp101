@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\Try_Catch.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\Try_Catch.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\Try_Catch.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\bin\Debug\net6.0\Try_Catch.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\bin\Debug\net6.0\Try_Catch.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\bin\Debug\net6.0\Try_Catch.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\bin\Debug\net6.0\Try_Catch.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\bin\Debug\net6.0\ref\Try_Catch.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\bin\Debug\net6.0\Try_Catch.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\Try_Catch.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\ref\Try_Catch.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\Try_Catch.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\PatikaExercises\Try_Catch\obj\Debug\net6.0\Try_Catch.genruntimeconfig.cache
