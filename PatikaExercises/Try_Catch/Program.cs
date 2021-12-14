@@ -10,7 +10,6 @@ catch (ArgumentException ex)
 {
     Console.WriteLine(ex);
     Console.WriteLine("Argument");
-
 }
 catch (FormatException ex)
 {

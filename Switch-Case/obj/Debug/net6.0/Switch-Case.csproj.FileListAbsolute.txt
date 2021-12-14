@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\bin\Debug\net6.0\Switch-Case.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\bin\Debug\net6.0\Switch-Case.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\bin\Debug\net6.0\Switch-Case.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\bin\Debug\net6.0\Switch-Case.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\bin\Debug\net6.0\ref\Switch-Case.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\bin\Debug\net6.0\Switch-Case.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\Switch-Case.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\Switch-Case.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\Switch-Case.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\ref\Switch-Case.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\Switch-Case.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Switch-Case\obj\Debug\net6.0\Switch-Case.genruntimeconfig.cache

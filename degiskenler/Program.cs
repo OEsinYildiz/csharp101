@@ -3,8 +3,8 @@ using System.Text;
 
 namespace degiskenler
 {
-
-    class Example{
+    class Example
+    {
         public char Name;
 
         public override string ToString()
@@ -19,11 +19,11 @@ namespace degiskenler
             }
         }
     }
+
     class Program
     {
         static void Main(string[] args)
         {
-            
             Example exp = new();
             exp.Name = 'p';
             Console.WriteLine(exp.Name.ToString());
@@ -47,13 +47,5 @@ namespace degiskenler
             // Console.WriteLine(inputString);
             // Console.WriteLine("Hello World!");
         }
-
-       
-
-       
     }
-
-    
-
-  
 }

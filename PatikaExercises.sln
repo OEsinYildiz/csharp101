@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleNet5", "ConsoleNet5\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "degiskenler", "degiskenler\degiskenler.csproj", "{D6352FC8-B380-4D38-A631-5788316ED375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro to Conditional Statements", "Intro to Conditional Statements\Intro to Conditional Statements.csproj", "{AC8DBCDF-87F0-4798-9C81-2919E8C2C5A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Case", "Switch-Case\Switch-Case.csproj", "{2FD4974E-AC46-444B-84E2-C3BF9E7A4970}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{D6352FC8-B380-4D38-A631-5788316ED375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6352FC8-B380-4D38-A631-5788316ED375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6352FC8-B380-4D38-A631-5788316ED375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8DBCDF-87F0-4798-9C81-2919E8C2C5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8DBCDF-87F0-4798-9C81-2919E8C2C5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8DBCDF-87F0-4798-9C81-2919E8C2C5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8DBCDF-87F0-4798-9C81-2919E8C2C5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD4974E-AC46-444B-84E2-C3BF9E7A4970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD4974E-AC46-444B-84E2-C3BF9E7A4970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD4974E-AC46-444B-84E2-C3BF9E7A4970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD4974E-AC46-444B-84E2-C3BF9E7A4970}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
