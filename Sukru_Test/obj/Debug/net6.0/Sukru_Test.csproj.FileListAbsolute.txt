@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\bin\Debug\net6.0\Sukru_Test.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\bin\Debug\net6.0\Sukru_Test.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\bin\Debug\net6.0\Sukru_Test.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\bin\Debug\net6.0\Sukru_Test.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\bin\Debug\net6.0\ref\Sukru_Test.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\bin\Debug\net6.0\Sukru_Test.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\Sukru_Test.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\Sukru_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\Sukru_Test.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\Sukru_Test.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\Sukru_Test.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\Sukru_Test.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\ref\Sukru_Test.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\Sukru_Test.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Sukru_Test\obj\Debug\net6.0\Sukru_Test.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\bin\Debug\net6.0\RecusiveFunc.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\bin\Debug\net6.0\RecusiveFunc.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\bin\Debug\net6.0\RecusiveFunc.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\bin\Debug\net6.0\RecusiveFunc.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\bin\Debug\net6.0\ref\RecusiveFunc.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\bin\Debug\net6.0\RecusiveFunc.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\RecusiveFunc.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\RecusiveFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\RecusiveFunc.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\RecusiveFunc.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\RecusiveFunc.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\RecusiveFunc.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\ref\RecusiveFunc.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\RecusiveFunc.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\RecusiveFunc\obj\Debug\net6.0\RecusiveFunc.genruntimeconfig.cache

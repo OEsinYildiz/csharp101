@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\bin\Debug\net6.0\Day 20 Sorting.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\bin\Debug\net6.0\Day 20 Sorting.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\bin\Debug\net6.0\Day 20 Sorting.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\bin\Debug\net6.0\Day 20 Sorting.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\bin\Debug\net6.0\ref\Day 20 Sorting.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\bin\Debug\net6.0\Day 20 Sorting.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\Day 20 Sorting.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\Day 20 Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\Day 20 Sorting.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\Day 20 Sorting.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\Day 20 Sorting.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\Day 20 Sorting.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\ref\Day 20 Sorting.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\Day 20 Sorting.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Day 20 Sorting\obj\Debug\net6.0\Day 20 Sorting.genruntimeconfig.cache

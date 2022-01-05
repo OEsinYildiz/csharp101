@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\bin\Debug\net6.0\Ref ve Out Test.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\bin\Debug\net6.0\Ref ve Out Test.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\bin\Debug\net6.0\Ref ve Out Test.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\bin\Debug\net6.0\Ref ve Out Test.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\bin\Debug\net6.0\ref\Ref ve Out Test.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\bin\Debug\net6.0\Ref ve Out Test.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\Ref ve Out Test.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\Ref ve Out Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\Ref ve Out Test.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\Ref ve Out Test.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\Ref ve Out Test.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\Ref ve Out Test.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\ref\Ref ve Out Test.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\Ref ve Out Test.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Ref ve Out Test\obj\Debug\net6.0\Ref ve Out Test.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Pij4sLmfpbnuz6xwtqTRHDGwdUdJ3ujiyG0/CqPJyjg9vWizJVcFVu5lp200sp67RfDeKE2+pxQOERxAnaX1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\Desktop\\Patika\\CSharp-101\\Staircase\\Staircase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

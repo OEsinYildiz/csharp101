@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\bin\Debug\net6.0\Simple Array Sum.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\bin\Debug\net6.0\Simple Array Sum.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\bin\Debug\net6.0\Simple Array Sum.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\bin\Debug\net6.0\Simple Array Sum.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\bin\Debug\net6.0\ref\Simple Array Sum.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\bin\Debug\net6.0\Simple Array Sum.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\Simple Array Sum.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\Simple Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\Simple Array Sum.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\Simple Array Sum.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\Simple Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\Simple Array Sum.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\ref\Simple Array Sum.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\Simple Array Sum.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Simple Array Sum\obj\Debug\net6.0\Simple Array Sum.genruntimeconfig.cache

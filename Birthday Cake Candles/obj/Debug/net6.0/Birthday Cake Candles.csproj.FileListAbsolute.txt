@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\bin\Debug\net6.0\Birthday Cake Candles.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\bin\Debug\net6.0\Birthday Cake Candles.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\bin\Debug\net6.0\Birthday Cake Candles.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\bin\Debug\net6.0\Birthday Cake Candles.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\bin\Debug\net6.0\ref\Birthday Cake Candles.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\bin\Debug\net6.0\Birthday Cake Candles.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\Birthday Cake Candles.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\Birthday Cake Candles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\Birthday Cake Candles.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\Birthday Cake Candles.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\Birthday Cake Candles.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\Birthday Cake Candles.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\ref\Birthday Cake Candles.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\Birthday Cake Candles.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Birthday Cake Candles\obj\Debug\net6.0\Birthday Cake Candles.genruntimeconfig.cache

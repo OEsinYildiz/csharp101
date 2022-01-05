@@ -1,0 +1,5 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Plus Minus\obj\Debug\net5.0\Plus Minus.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Plus Minus\obj\Debug\net5.0\Plus Minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Plus Minus\obj\Debug\net5.0\Plus Minus.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Plus Minus\obj\Debug\net5.0\Plus Minus.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Plus Minus\obj\Debug\net5.0\Plus Minus.csproj.CoreCompileInputs.cache

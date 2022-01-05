@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\bin\Debug\net6.0\Two Sum Problem.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\bin\Debug\net6.0\Two Sum Problem.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\bin\Debug\net6.0\Two Sum Problem.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\bin\Debug\net6.0\Two Sum Problem.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\bin\Debug\net6.0\ref\Two Sum Problem.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\bin\Debug\net6.0\Two Sum Problem.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\Two Sum Problem.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\Two Sum Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\Two Sum Problem.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\Two Sum Problem.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\Two Sum Problem.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\Two Sum Problem.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\ref\Two Sum Problem.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\Two Sum Problem.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Two Sum Problem\obj\Debug\net6.0\Two Sum Problem.genruntimeconfig.cache

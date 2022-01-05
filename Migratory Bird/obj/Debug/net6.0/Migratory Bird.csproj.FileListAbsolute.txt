@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\bin\Debug\net6.0\Migratory Bird.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\bin\Debug\net6.0\Migratory Bird.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\bin\Debug\net6.0\Migratory Bird.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\bin\Debug\net6.0\Migratory Bird.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\bin\Debug\net6.0\ref\Migratory Bird.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\bin\Debug\net6.0\Migratory Bird.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\Migratory Bird.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\Migratory Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\Migratory Bird.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\Migratory Bird.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\Migratory Bird.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\Migratory Bird.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\ref\Migratory Bird.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\Migratory Bird.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Migratory Bird\obj\Debug\net6.0\Migratory Bird.genruntimeconfig.cache
