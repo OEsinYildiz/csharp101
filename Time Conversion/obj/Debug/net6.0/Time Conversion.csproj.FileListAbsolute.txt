@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\bin\Debug\net6.0\Time Conversion.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\bin\Debug\net6.0\Time Conversion.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\bin\Debug\net6.0\Time Conversion.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\bin\Debug\net6.0\Time Conversion.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\bin\Debug\net6.0\ref\Time Conversion.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\bin\Debug\net6.0\Time Conversion.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\Time Conversion.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\Time Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\Time Conversion.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\Time Conversion.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\Time Conversion.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\Time Conversion.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\ref\Time Conversion.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\Time Conversion.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Time Conversion\obj\Debug\net6.0\Time Conversion.genruntimeconfig.cache

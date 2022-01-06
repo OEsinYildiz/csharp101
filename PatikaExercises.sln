@@ -54,6 +54,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Methods", "String_Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime_ve_Math_Sınıfları", "Datetime_ve_Math_Sınıfları\Datetime_ve_Math_Sınıfları.csproj", "{00D22AB8-5E3E-4318-A202-DAD77E8769DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Conversion", "Time Conversion\Time Conversion.csproj", "{00AD34CD-60A2-49B4-ADD6-09992855AFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{F8FA99D6-72C7-47F3-ACB2-8782BEDB05F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{2419A518-08DE-4488-BEF0-7C195FC20CF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +174,17 @@ Global
 		{00D22AB8-5E3E-4318-A202-DAD77E8769DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00D22AB8-5E3E-4318-A202-DAD77E8769DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00D22AB8-5E3E-4318-A202-DAD77E8769DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AD34CD-60A2-49B4-ADD6-09992855AFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AD34CD-60A2-49B4-ADD6-09992855AFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AD34CD-60A2-49B4-ADD6-09992855AFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AD34CD-60A2-49B4-ADD6-09992855AFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FA99D6-72C7-47F3-ACB2-8782BEDB05F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FA99D6-72C7-47F3-ACB2-8782BEDB05F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FA99D6-72C7-47F3-ACB2-8782BEDB05F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FA99D6-72C7-47F3-ACB2-8782BEDB05F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2419A518-08DE-4488-BEF0-7C195FC20CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2419A518-08DE-4488-BEF0-7C195FC20CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2419A518-08DE-4488-BEF0-7C195FC20CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2419A518-08DE-4488-BEF0-7C195FC20CF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
