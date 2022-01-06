@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Datetime_ve_Math_Sınıfları/1.0.0": {
+        "runtime": {
+          "Datetime_ve_Math_Sınıfları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datetime_ve_Math_Sınıfları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

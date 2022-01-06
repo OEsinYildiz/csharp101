@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\bin\Debug\net6.0\Datetime_ve_Math_Sınıfları.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\bin\Debug\net6.0\Datetime_ve_Math_Sınıfları.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\bin\Debug\net6.0\Datetime_ve_Math_Sınıfları.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\bin\Debug\net6.0\Datetime_ve_Math_Sınıfları.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\bin\Debug\net6.0\ref\Datetime_ve_Math_Sınıfları.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\bin\Debug\net6.0\Datetime_ve_Math_Sınıfları.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\Datetime_ve_Math_Sınıfları.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\Datetime_ve_Math_Sınıfları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\Datetime_ve_Math_Sınıfları.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\Datetime_ve_Math_Sınıfları.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\Datetime_ve_Math_Sınıfları.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\Datetime_ve_Math_Sınıfları.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\ref\Datetime_ve_Math_Sınıfları.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\Datetime_ve_Math_Sınıfları.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\Datetime_ve_Math_Sınıfları\obj\Debug\net6.0\Datetime_ve_Math_Sınıfları.genruntimeconfig.cache
