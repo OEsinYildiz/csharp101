@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\bin\Debug\net6.0\String_Methods.exe
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\bin\Debug\net6.0\String_Methods.deps.json
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\bin\Debug\net6.0\String_Methods.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\bin\Debug\net6.0\String_Methods.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\bin\Debug\net6.0\ref\String_Methods.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\bin\Debug\net6.0\String_Methods.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\String_Methods.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\String_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\String_Methods.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\String_Methods.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\String_Methods.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\String_Methods.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\ref\String_Methods.dll
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\String_Methods.pdb
+C:\Users\omere\Desktop\Patika\CSharp-101\String_Methods\obj\Debug\net6.0\String_Methods.genruntimeconfig.cache

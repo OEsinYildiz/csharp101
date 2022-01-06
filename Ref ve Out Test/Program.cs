@@ -35,6 +35,19 @@ class MyClass
     public int Id { get; set; }
 }
 
+class Test
+{
+    public string M1()
+    {
+        return null;
+    }
+    
+    public string M1(string a)
+    {
+        return null;
+    }
+}
+
 
 //Console.WriteLine(result);
 //Console.WriteLine(response);
